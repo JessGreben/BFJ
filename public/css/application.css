@@ -1,0 +1,21 @@
+body {
+    background-color: #f1f1f1;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    font-family: 'Alegreya:700', serif;
+    text-align: center;
+}
+
+h3, h4, p {
+    text-align: center;
+    font-family: 'Source Serif Pro:600', serif;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
